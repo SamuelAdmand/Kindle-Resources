@@ -32,5 +32,18 @@ Download the latest releases from the [Releases](https://github.com/SamuelAdmand
 3. **For Books/Wikipedia:** Copy the file to the `documents` folder.
 4. Eject your Kindle and select the new content from your library.
 
+## 📖 Usage Guide
+
+Both the dictionary and the offline Wikipedia are designed to work as built-in dictionaries on your Kindle.
+
+### How to use:
+1.  **Setting the Default Dictionary:**
+    -   While reading a book, tap the top of the screen to open the menu.
+    -   Go to **Settings > All Settings > Language & Dictionaries > Dictionaries**.
+    -   Select the **Comprehensive Kindle Dictionary** or the **Offline Wikipedia** as your default.
+2.  **Instant Lookup:**
+    -   While reading any book, **long-press on a word** to see its definition or Wikipedia summary.
+    -   If multiple dictionaries are installed, you can tap the dictionary name in the lookup window to switch between them.
+
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions for new resources or improvements to existing ones, please open an issue or submit a pull request.
