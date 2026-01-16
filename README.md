@@ -7,8 +7,8 @@ Welcome to the **Kindle Resources** repository. This project is a curated collec
 ### 1. Comprehensive Kindle Dictionary
 A meticulously formatted and extensive dictionary custom-built for Kindle e-readers.
 
+- **Over 180,000 Words:** A massive database covering a vast range of vocabulary with precise definitions.
 - **Optimized Layout:** Designed for clear readability on E-ink screens.
-- **Extensive Database:** Covers a vast range of vocabulary with precise definitions.
 - **Instant Lookup:** Fully compatible with Kindle's built-in dictionary lookup feature.
 
 ### 2. Offline Wikipedia (Vital Articles L5)
@@ -20,7 +20,7 @@ Carry the world's knowledge with you, anywhere you go.
 
 ## 🚀 Getting Started
 
-Download the latest releases from the [Releases](#) page or clone this repository to access the resource files directly.
+Download the latest releases from the [Releases](https://github.com/SamuelAdmand/Kindle-Resources/releases) page or clone this repository to access the resource files directly.
 
 ### Installation
 1. Connect your Kindle to your computer via USB.
