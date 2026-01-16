@@ -28,9 +28,8 @@ Download the latest releases from the [Releases](https://github.com/SamuelAdmand
 
 ### Installation
 1. Connect your Kindle to your computer via USB.
-2. **For Dictionaries:** Copy the dictionary file (e.g., `.mobi` or `.azw3`) to the `documents/dictionaries` folder on your Kindle.
-3. **For Books/Wikipedia:** Copy the file to the `documents` folder.
-4. Eject your Kindle and select the new content from your library.
+2. **Installation Path:** Copy both the **Dictionary** and **Wikipedia** files (e.g., `.mobi`) to the `documents/dictionaries` folder on your Kindle.
+3. Eject your Kindle and select the new content from your library.
 
 ## 📖 Usage Guide
 
