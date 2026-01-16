@@ -11,12 +11,16 @@ A meticulously formatted and extensive dictionary custom-built for Kindle e-read
 - **Optimized Layout:** Designed for clear readability on E-ink screens.
 - **Instant Lookup:** Fully compatible with Kindle's built-in dictionary lookup feature.
 
+[**⬇️ Download Dictionary**](https://github.com/SamuelAdmand/Kindle-Resources/releases/download/v1.0.0/dictionary.mobi)
+
 ### 2. Offline Wikipedia (Vital Articles L5)
 Carry the world's knowledge with you, anywhere you go.
 
 - **50,000+ Articles:** Includes the complete set of Wikipedia's "Level 5" vital articles.
 - **Offline Access:** No internet connection required—perfect for travel or remote areas.
 - **Kindle Optimized:** Formatted specifically for convenient navigation and reading on Kindle devices.
+
+[**⬇️ Download Offline Wikipedia**](https://github.com/SamuelAdmand/Kindle-Resources/releases)
 
 ## 🚀 Getting Started
 
