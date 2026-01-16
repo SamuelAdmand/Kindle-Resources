@@ -20,7 +20,7 @@ Carry the world's knowledge with you, anywhere you go.
 - **Offline Access:** No internet connection required—perfect for travel or remote areas.
 - **Kindle Optimized:** Formatted specifically for convenient navigation and reading on Kindle devices.
 
-[**⬇️ Download Offline Wikipedia**](https://github.com/SamuelAdmand/Kindle-Resources/releases)
+[**⬇️ Download Offline Wikipedia**](https://github.com/SamuelAdmand/Kindle-Resources/releases/download/v1.0.0/encyclopedia.mobi)
 
 ## 🚀 Getting Started
 
